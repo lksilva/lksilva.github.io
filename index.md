@@ -1,5 +1,3 @@
-# Lucas's Professional Journey
-
 ### Beginnings: Family & Resilience
 
 To talk about my professional career, I have to go a bit into my personal life. Nice to meet you, my name is Lucas, the youngest child of five. I grew up in a poor and dangerous neighborhood on the outskirts of northeastern Brazil. From as far back as I can remember, I worked alongside my family in my father’s small neighborhood bakery. All of us brothers took part in the pipeline of breadmaking — selling, mixing, baking, delivering. As we got older, we took on more responsibility. By 17, we were practically experts in the bakery environment.
