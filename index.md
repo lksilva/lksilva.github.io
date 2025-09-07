@@ -1,5 +1,26 @@
 # Lucas's Professional Journey
 
+## Table of Contents
+- [Beginnings: Family & Resilience](#beginnings-family--resilience)
+- [How I Found Programming](#how-i-found-programming)
+- [My First Internship: The Hardest Chapter](#my-first-internship-the-hardest-chapter)
+- [Hallive: My First Startup (2014)](#hallive-my-first-startup-2014)
+- [Hard Moments at Home](#hard-moments-at-home)
+- [Softlog Internship: Learning Legacy Systems (2014)](#softlog-internship-learning-legacy-systems-2014)
+- [Graduation & Moving Forward](#graduation--moving-forward)
+- [Promotion, End of Hallive & First Steps into Legacy (2015)](#promotion-end-of-hallive--first-steps-into-legacy-2015)
+- [A Coincidence that Changed Everything](#a-coincidence-that-changed-everything)
+- [Deway: Learning Fast, Failing Fast (2015–2017)](#deway-learning-fast-failing-fast-20152017)
+- [Hyperlocal: Ambition, Lessons, and Burnout (2018–2019)](#hyperlocal-ambition-lessons-and-burnout-20182019)
+- [Nubank: From Platform to Global Scale to Crypto (2019–Present)](#nubank-from-platform-to-global-scale-to-crypto-2019present)
+- [Investments: Building Money Boxes (2020–2024)](#investments-building-money-boxes-20202024)
+- [Global Investments: From Brazil to LatAm (2024–2025)](#global-investments-from-brazil-to-latam-20242025)
+- [Crypto Broker: Reliability at Scale (2025–Present)](#crypto-broker-reliability-at-scale-2025present)
+- [Lessons From Nubank](#lessons-from-nubank)
+- [Closing Note](#closing-note)
+  
+---
+
 ### Beginnings: Family & Resilience
 
 To talk about my professional career, I have to go a bit into my personal life. Nice to meet you, my name is Lucas, the youngest child of five. I grew up in a poor and dangerous neighborhood on the outskirts of northeastern Brazil. From as far back as I can remember, I worked alongside my family in my father’s small neighborhood bakery. All of us brothers took part in the pipeline of breadmaking — selling, mixing, baking, delivering. As we got older, we took on more responsibility. By 17, we were practically experts in the bakery environment.
@@ -183,7 +204,7 @@ At first, I was focused on execution, building features end-to-end in Clojure, f
 
 Sometimes the impact was visible instantly, a bug in production could put Money Boxes in Brazil’s Twitter trending topics within minutes. It was both terrifying and motivating.
 
-**Global Investments: From Brazil to LatAm (2024–2025)**
+### Global Investments: From Brazil to LatAm (2024–2025)
 
 As Money Boxes grew, Nubank launched similar products in **Colombia (Cajitas)** and **Mexico**. Initially, teams built country-specific solutions, but that wasn’t scalable. I joined efforts to design a **global, country-agnostic Money Boxes platform**.
 
