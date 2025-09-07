@@ -1,3 +1,5 @@
+# Lucas's Professional Journey
+
 ### Beginnings: Family & Resilience
 
 To talk about my professional career, I have to go a bit into my personal life. Nice to meet you, my name is Lucas, the youngest child of five. I grew up in a poor and dangerous neighborhood on the outskirts of northeastern Brazil. From as far back as I can remember, I worked alongside my family in my father’s small neighborhood bakery. All of us brothers took part in the pipeline of breadmaking — selling, mixing, baking, delivering. As we got older, we took on more responsibility. By 17, we were practically experts in the bakery environment.
@@ -213,7 +215,7 @@ Nubank has been the most transformative chapter of my career. It taught me:
 
 So this is a little of my journey as an engineer. I hope it gives you an overview of the kind of professional I am, and maybe even helps you understand the person behind the code.
 
-If you’d like to talk, please reach out on [LinkedIn](https://www.linkedin.com/in/lucas-souza-a45421151) or send me an email at [**lucas47s.s47@gmail.com](mailto:lucas47s.s47@gmail.com),** it will be a pleasure to connect.
+If you’d like to talk, please reach out on [LinkedIn](https://www.linkedin.com/in/lucas-souza-a45421151) or send me an email at **lucas47s.s47@gmail.com,** it will be a pleasure to connect.
 
 For my next step, I’m aiming for a remote-first environment that allows me to stay close to my family. I’ve recently become a father, and I’m in a phase of life where I’m both incredibly happy and, at the same time, navigating the uncertainties of a job transition. There’s never a “perfect” time to make a move, but I believe growth often comes when we take the leap anyway.
 
