@@ -74,3 +74,7 @@ hr {
 .page-heading {
     display: none;
 }
+
+.notion-page {
+   display: none;
+}
